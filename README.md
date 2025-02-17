@@ -20,3 +20,8 @@ docker-compose stop
 # Remove the services
 docker-compose down
 ```
+
+# Project Description:  
+- This project builds an Machine Learning System for video similarity search.  
+- The FAISS library pre-trained model is employed and tuned to handle clip embeddings created from video keyframes. The system can recognize patterns in these keyframes and search for similar videos from the data source.  
+- Technology and Skills used: FAISS, Torch, CUDA, Tensorflow, Frontend and Backend Development, etc.  
